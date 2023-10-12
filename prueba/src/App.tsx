@@ -7,6 +7,7 @@ function App() {
       <p>rama prueba</p>
       <p>Este es el cambio</p>
       <p>Esto es de la Rama Prueba 2</p>
+      <p>lalalalalalalala</p>
     </>
   )
 }
